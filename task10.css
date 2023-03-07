@@ -1,0 +1,49 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container1 {
+     width: 350px;
+     height: 600px;
+     border: 1px;
+     border-radius: 15px;
+     background-color: #FAFAFA;
+     margin: 50px auto;
+     align-items: center;
+     padding: 30px;
+     
+     
+}
+.photo {
+    width: 50% ;
+    margin: 30px 50px  50px 80px;
+    
+}
+
+h3 {
+    font-weight: bolder;
+    margin-bottom: 20px ;
+    font-size: 20px;
+}
+
+
+
+hr {
+    border-top: 1px solid #DCDCDC;
+    margin-bottom: 20px;
+}
+
+.text1 {
+
+    font-size: 14px;
+    margin-bottom: 30px;
+
+}
+
+a {
+    float: right;
+
+}
+
